@@ -15,8 +15,8 @@ public class JohnnyJokes {
 
         this.jokes.add(
                 "Na geografii:\n" +
-                "- Jasiu, gdzie leży Żywiec?\n" +
-                "- Na półce w sklepie, proszę pani.");
+                "\n- Jasiu, gdzie leży Żywiec?\n" +
+                "\n- Na półce w sklepie, proszę pani.");
 
         this.jokes.add(
                 "- Babciu, babciu, chodź tu i kopnij ten kalendarz.\n" +
